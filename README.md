@@ -20,6 +20,7 @@ I am a **Full-Stack Developer** and a **Data Science & Gen AI Enthusiast** from 
 
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/000000/git.png)
 
+![User Contributions](https://raw.githubusercontent.com/nikhilyadav09/nikhilyadav09/main/github-user-contribution.svg)
 ## Socials
 
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/nikhilyadav09/) 
